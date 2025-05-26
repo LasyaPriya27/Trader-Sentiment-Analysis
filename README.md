@@ -12,8 +12,7 @@
 primetrade-assignment/
 ├── data/
 │   ├── historical_data_sample.csv   # Sample of Hyperliquid trades (10K rows)
-│   ├── fear_greed_index.csv         # Full sentiment index
-│   └── README.md                    # Data summary & sampling note
+│   └── fear_greed_index.csv         # Full sentiment index
 ├── notebooks/
 │   ├── 01_data_preprocessing.ipynb  # Data cleaning, merging, features
 │   ├── 02_exploratory_analysis.ipynb # EDA: distributions, heatmaps, insights
