@@ -24,7 +24,6 @@ primetrade-assignment/
 │   └── dashboard/                   # Streamlit dashboard code
 ├── report/
 │   └── insights_summary.pdf         # Key takeaways & recommendations
-├── requirements.txt                 # Python dependencies
 └── README.md                        # Project overview
 ```
 
