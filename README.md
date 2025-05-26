@@ -27,13 +27,14 @@ primetrade-assignment/
 │   └── insights_summary.pdf         # Key takeaways & recommendations
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # Project overview
+```
 
 ### Data Sampling & Compression
 - **Full dataset** is used locally for analysis.
 - Only a **10,000-row sample** of `historical_data.csv` is included under `data/historical_data_sample.csv` to keep the repo light (~5 MB).
 - Full `historical_data.csv` is shared via Google Drive link in `data/README.md`.
 
----
+
 
 ### Methodology
 1. **Data Preprocessing** (`01_data_preprocessing.ipynb`)
