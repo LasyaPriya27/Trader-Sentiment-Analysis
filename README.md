@@ -70,9 +70,9 @@ primetrade-assignment/
 
 ### How to Run
 1. Open the notebooks in Google Colab using the links below:
-  - 01_data_preprocessing.ipynb
-  - 02_exploratory_analysis.ipynb
-  - 03_advanced_analysis.ipynb
+   - 01_data_preprocessing.ipynb
+   - 02_exploratory_analysis.ipynb
+   - 03_advanced_analysis.ipynb
 
 2. Upload the following datasets manually when prompted:
    - historical_data_sample.csv or full historical_data.csv
