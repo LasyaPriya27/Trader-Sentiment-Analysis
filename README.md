@@ -1,4 +1,4 @@
-# Trader-Sentiment-Analysis
+![image](https://github.com/user-attachments/assets/a012155f-3433-4635-b9d2-d54f450b178b)# Trader-Sentiment-Analysis
 ## 🎯 Objective
 - Analyze the interplay between Bitcoin market sentiment (Fear & Greed Index) and trader performance (PnL, win rate, ROI, risk metrics).
 - Identify top-performing traders across sentiment regimes.
@@ -58,14 +58,24 @@ primetrade-assignment/
 ---
 
 ### Key Insights (Preview)
-- **Momentum in Extreme Greed**: Avg PnL peaks at ~68 in Extreme Greed, Sharpe ratio highest in moderate Greed.
-- **Contrarian Stars**: 5 accounts maintain positive PnL in Extreme Fear—ideal for mean-reversion strategies.
-- **Risk Profiles**: Traders with lower max drawdown during volatile regimes deliver more stable returns.
+- **Extreme Greed Drives Gains:** Avg PnL and Sharpe ratio are highest during Greed and Extreme Greed phases.
+
+- **Contrarian Traders Excel in Fear:** A small subset of traders thrive in Fear and Extreme Fear conditions.
+
+- **Consistency Beats Extremes:** Traders with low drawdowns and stable ROI tend to perform better across all regimes.
+
+
 
 ---
 
 ### How to Run
-1. Clone the repo: `git clone https://github.com/yourname/primetrade-assignment.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Launch notebooks in order or run:
-   ```bash
+1. Open the notebooks in Google Colab using the links below:
+  - 01_data_preprocessing.ipynb
+  - 02_exploratory_analysis.ipynb
+  - 03_advanced_analysis.ipynb
+
+2. Upload the following datasets manually when prompted:
+   - historical_data_sample.csv or full historical_data.csv
+   - fear_greed_index.csv
+
+3. Run all cells in order.
