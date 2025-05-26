@@ -26,4 +26,4 @@ primetrade-assignment/
 ├── report/
 │   └── insights_summary.pdf         # One-page summary report
 ├── requirements.txt                 # Python dependencies
-└── README.md
+└── README.md                        # This overview
