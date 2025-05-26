@@ -58,6 +58,7 @@ primetrade-assignment/
      
 
      ![image](https://github.com/user-attachments/assets/2ec404f7-35c6-41be-a37f-5a8a01075b06)
+     
       **Correlation Matrix:** Sentiment Value, Trade Size & PnL
 
 
