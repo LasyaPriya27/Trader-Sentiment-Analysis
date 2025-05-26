@@ -75,7 +75,7 @@ primetrade-assignment/
    - 03_advanced_analysis.ipynb
 
 2. Upload the following datasets manually when prompted:
-   - historical_data_sample.csv or full historical_data.csv
+   - historical_data.csv
    - fear_greed_index.csv
 
 3. Run all cells in order.
