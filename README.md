@@ -46,6 +46,14 @@ primetrade-assignment/
    - Summary statistics of PnL, ROI, win rate by sentiment
    - Correlation heatmap (sentiment value vs. performance metrics)
    - Identify outlier traders and anomalous periods
+     ![image](https://github.com/user-attachments/assets/a807022d-c8e2-4f8c-bca8-350539edd80f)
+
+     ![image](https://github.com/user-attachments/assets/53acf066-3ff1-40e7-8ece-90db7b9a8f31)
+
+     ![image](https://github.com/user-attachments/assets/2ec404f7-35c6-41be-a37f-5a8a01075b06)
+
+
+
 
 3. **Advanced Analysis** (`03_advanced_analysis.ipynb`)
    - Calculate performance ratios: Sharpe, Sortino, profit factor, max drawdown
