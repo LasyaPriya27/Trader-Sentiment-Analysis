@@ -20,8 +20,7 @@ primetrade-assignment/
 ├── output/
 │   ├── sentiment_summary.csv        # Aggregated metrics per sentiment
 │   ├── top_traders_by_sentiment.csv # Top traders per sentiment regime
-│   ├── figures/                     # Visualizations as PNGs
-│   └── dashboard/                   # Streamlit dashboard code
+│   └── figures/                     # Visualizations as PNGs
 ├── report/
 │   └── insights_summary.pdf         # Key takeaways & recommendations
 └── README.md                        # Project overview
