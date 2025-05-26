@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a012155f-3433-4635-b9d2-d54f450b178b)# Trader-Sentiment-Analysis
+### Trader-Sentiment-Analysis
 ## 🎯 Objective
 - Analyze the interplay between Bitcoin market sentiment (Fear & Greed Index) and trader performance (PnL, win rate, ROI, risk metrics).
 - Identify top-performing traders across sentiment regimes.
